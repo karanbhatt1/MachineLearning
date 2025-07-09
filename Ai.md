@@ -35,7 +35,7 @@ Action : The work done by agent.
 
 > More the data better is the AI system its totally wrong.
 <p style="color:orange; font-size:40px">Machine learning algorithms learns till the threshold value and then the learning curve is constant.</p>
-<img src="https://www.researchgate.net/profile/Benoit_Gallix/publication/324457640/figure/fig1/AS:622298201595905@1525378861825/Graph-illustrating-the-impact-of-data-available-on-performance-of-traditional-machine.png" >
+<img src="thresholdeffect.png" >
 
 <br>
 <br>
