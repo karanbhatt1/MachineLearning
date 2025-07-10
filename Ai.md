@@ -72,22 +72,3 @@ Deep Learning
 >( compressed form of data [ There was multiple inputs but according to weights now the data is cleaned up])
 > Now, This is passed to activation function
 
-
-
-
-# NLP :
-## Vectorization of words in NLP:
-> Frequency Embedding -- used to find the semantic meaning of the sentences or data. 
-> or what word would come after one another.
-> it takes so much memory so we need resourses to perform this.
-
--- Get all the unique words
--- A matrix is made out of these words 
--- (like confusion matrix , co-relation matrix)
-
-
-### Characterstic Embedding
-
-
-Encoder(BERT)
-Bidirectional encoded representation transformers  --------- Decoder(Response)
